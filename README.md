@@ -6,9 +6,11 @@
 
 - [Рабочая программа дисциплины](docs/rpd.md)
 - [Методические указания](methodical-guidelines/README.md)
+- [Правила допустимого использования LLM и внешних ресурсов](methodical-guidelines/students/llm-usage-and-external-resources.md)
 - [Информационные ресурсы](resources/README.md)
 - [Команда проекта](team/README.md)
 - [Контроль качества репозитория](docs/quality-checklist.md)
+
 
 ## 1. О дисциплине
 
